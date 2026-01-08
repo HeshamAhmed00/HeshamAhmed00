@@ -13,15 +13,15 @@
 
 ### 🔍 Testing
 
-🧪 Manual Testing &nbsp; 🔁 Functional / Regression / Smoke &nbsp; 🌐 API Testing (Postman) &nbsp; 🗄 Database Testing (SQL) &nbsp; 🎨 UI / UX Testing  
+### 🧪 Manual Testing &nbsp; 🔁 Functional / Regression / Smoke &nbsp; 🌐 API Testing (Postman) &nbsp; 🗄 Database Testing (SQL) &nbsp; 🎨 UI / UX Testing  
 
 ### 🤖 Automation & Performance
 
-🤖 Selenium &nbsp; 🧩 TestNG &nbsp; 🥒 Cucumber &nbsp; ⚡ JMeter  
+### 🤖 Selenium &nbsp; 🧩 TestNG &nbsp; 🥒 Cucumber &nbsp; ⚡ JMeter  
 
 ### 🧰 Tools
 
-📌 Jira &nbsp; 📊 Zephyr Scale &nbsp; 📋 Trello &nbsp; 🐙 GitHub  
+### 📌 Jira &nbsp; 📊 Zephyr Scale &nbsp; 📋 Trello &nbsp; 🐙 GitHub  
 
 ### 💻 Programming
 
