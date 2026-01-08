@@ -21,7 +21,7 @@
 📌 Jira    📊 Zephyr Scale  📋 Trello   🐙 GitHub  
 
 ### 💻 Programming
-☕ Java  🗄 SQL  🟨 JavaScript  🌐 HTML / CSS  🅱 Bootstrap  🐘 PHP  
+☕ Java  🗄 SQL  🟨 Javascript  🌐 HTML / CSS  🅱 Bootstrap  🐘 PHP  
 ---
 
 ## 📫 Contact
