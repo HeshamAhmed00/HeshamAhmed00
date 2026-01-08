@@ -12,31 +12,16 @@
 ## 🛠 Tech Stack
 
 ### 🔍 Testing
-🧪 Manual Testing  
-🔁 Functional / Regression / Smoke  
-🌐 API Testing (Postman)  
-🗄 Database Testing (SQL)  
-🎨 UI / UX Testing  
+🧪 Manual Testing   🔁 Functional / Regression / Smoke   🌐 API Testing (Postman)   🗄 Database Testing (SQL)   🎨 UI / UX Testing  
 
 ### 🤖 Automation & Performance
-🤖 Selenium  
-🧩 TestNG  
-🥒 Cucumber  
-⚡ JMeter  
+🤖 Selenium   🧩 TestNG   🥒 Cucumber  ⚡ JMeter  
 
 ### 🧰 Tools
-📌 Jira  
-📊 Zephyr Scale  
-📋 Trello  
-🐙 GitHub  
+📌 Jira    📊 Zephyr Scale  📋 Trello   🐙 GitHub  
 
 ### 💻 Programming
-☕ Java  
-🗄 SQL  
-🟨 JavaScript  
-🌐 HTML / CSS  
-🅱 Bootstrap  
-🐘 PHP  
+☕ Java  🗄 SQL  🟨 JavaScript  🌐 HTML / CSS  🅱 Bootstrap  🐘 PHP  
 ---
 
 ## 📫 Contact
