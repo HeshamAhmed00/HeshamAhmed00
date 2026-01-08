@@ -40,4 +40,7 @@ Software Tester | QC Engineer
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/hesham-ahmed1010/  
-- GitHub: https://github.com/HeshamAhmed00  
+- GitHub: https://github.com/HeshamAhmed00
+- Email: heshamahmed3131@gmail.com  
+
+⭐ Feel free to connect and collaborate!
